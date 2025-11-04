@@ -1,8 +1,6 @@
 # 📈 Project‑Name: “Market‑Motion – Equity & Crypto Analysis”
 
-> **Author:** Tytus Felbor
-> **GitHub:** https://github.com/TFelbor/Market-Motion 
-> **Date:** 2025‑04‑22  
+   Data Science Project exhibiting market analysis & historical comparison of S&P500 & cryptocurrencies.
 
 ---
 
